@@ -7,6 +7,9 @@ This project simulates an Industrial IoT environment using multiple communicatio
 Prerequisites:
 
 Python 3.10.9
+
 Visual Studio Code
+
 Windows operating system
+
 Mosquitto MQTT Broker
